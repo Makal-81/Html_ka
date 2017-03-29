@@ -15,7 +15,15 @@ Syntax highlighted code block
 ## Header 2
 ### Забабаха 124553355 ###
 
+
 - Bulleted
+<ul>
+<li>Улыбка </li>
+<li>Улыбка 1</li>
+<li>Улыбка 123 </li>
+<li>Улыбка 12345 </li>
+
+</ul>
 - List
 
 1. Numbered
